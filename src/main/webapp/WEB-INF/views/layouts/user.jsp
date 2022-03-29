@@ -12,17 +12,18 @@
 <link
 	href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
 	rel="stylesheet">
-
 	<link href="<c:url value="/assets/user/lib/fontawesome/css/all.css" />" rel="stylesheet">
 	<link href="<c:url value="/assets/user/css/chi-tiet.css" />" rel="stylesheet">
 	  <link href="<c:url value="/assets/user/css/dong-ho-nam.css" />" rel="stylesheet">
  <link href="<c:url value="/assets/user/css/dongho.css" />" rel="stylesheet">
-   <link href="<c:url value="/assets/user/css/home.css" />" rel="stylesheet">         
+   <link href="<c:url value="/assets/user/css/home.css" />" rel="stylesheet">    
+ <link href="<c:url value="/assets/user/css/w3.css" />" rel="stylesheet">
+
 <link rel="stylesheet" href="<c:url value = "/assets/user/lib/bootstrap/css/bootstrap.css"/>"/>
 <link rel="stylesheet" href="<c:url value = "/assets/user/lib/bootstrap/css/bootstrap-theme.css"/>"/>
 
 <link rel="stylesheet" href="<c:url value = "/assets/user/lib/fontawesome/css/all.css"/>"/>
-
+<script src="<c:url value="/assets/user/js/header.js" />"></script>
 </head>
 <body>
 	<script async defer crossorigin="anonymous"
